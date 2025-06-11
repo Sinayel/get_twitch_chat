@@ -38,7 +38,7 @@ Une application Python simple pour connecter des bots à des chaînes Twitch, r�
 
 1. Lance le script Python :  
    ```bash
-   python ton_script.py
+   python3 get_chat.py
    ```
 2. Dans la fenêtre qui s’ouvre :  
    1. Entre un nom de chaîne Twitch dans la zone de texte.  
