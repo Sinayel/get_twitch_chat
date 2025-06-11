@@ -28,7 +28,7 @@ Une application Python simple pour connecter des bots à des chaînes Twitch, r�
    ```
 3. Installe les dépendances Python (requests, tkinter est inclus par défaut) :  
    ```bash
-   pip install requests
+   pip install -r requirements.txt
    ```
 4. Modifie le fichier Python pour renseigner tes identifiants Twitch (`NICKNAME`, `TOKEN`, `CLIENT_ID`, `CLIENT_SECRET`).
 
